@@ -1,0 +1,35 @@
+.financial {
+    margin-bottom: 96px;
+}
+
+.financial__list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.finance-img {
+    margin: 0 auto;
+    padding-bottom: 32px;
+}
+
+.finance__title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: -0.138462px;
+    color: #36536B;
+    margin-bottom: 16px;
+}
+
+.financial__text{
+    width: 350px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: -0.115385px;
+    color: #6C8294;
+}
